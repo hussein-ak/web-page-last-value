@@ -19,7 +19,7 @@ User-Friendly Interface: Simple and intuitive design to easily understand the co
 
 ## last value:
 
-![image](https://github.com/user-attachments/assets/00a9340c-a6f3-4ee5-8ad4-d5a572e9cc17)
+![image](https://github.com/user-attachments/assets/df19b2a7-83a2-4c7a-8cd1-da98d8bffd11)
 
 
 
